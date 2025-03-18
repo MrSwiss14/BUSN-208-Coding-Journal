@@ -6,6 +6,9 @@
 //
 
 
+//This file is a command line application from the 2/4/25 homework where we were supposed to work on the logic for the tic tac toe game.
+//I realized I couldn't make it in the playground get user input so I switched to this and just kept experimenting/learning/researching to get something to work.
+
 
 import Foundation
 
